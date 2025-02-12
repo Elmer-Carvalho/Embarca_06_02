@@ -35,4 +35,4 @@ Este projeto implementa a funcionalidade de controle de um ServoMotor e de um LE
 
 
 ## Vídeo demonstrativo 
-[Assista aqui](https://drive.google.com/file/d/11QTtBCxPk06YGa7v4cQOCkaB4slWW50g/view?usp=sharing)
+[Assista aqui](https://drive.google.com/file/d/1FfB-oZv6XbIDkKohn70FPz4Sf00vushw/view?usp=sharing)
